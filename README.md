@@ -1,7 +1,10 @@
 # RSAsolver
-RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP
-# 🔐 RSA通用解密工具
 
+# 🔐 RSA通用解密工具
+RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP
+本工具需要license 授权，下载exe文件后双击打开命令行，输入1得到16位字符串，发给作者获取license。   加微信
+目前版本支持常见的10种加密方法，出flag同时也 给出WP，不用手动写题解啦！
+开发不易 请大家多多支持。
 ## ✨ 支持的功能
 
 ### 🔍 RSA解密攻击方法
@@ -24,6 +27,16 @@ RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP
 
 解出flag  同时给出WP，节约时间提升效率
 <img width="1100" height="1037" alt="image" src="https://github.com/user-attachments/assets/cfcaaeb6-e266-4059-a7b3-503110d7667c" />
+
+### 捐助
+本工具需要license 授权，下载exe文件后双击打开命令行，输入1得到16位字符串，发给作者获取license。      加作者微信   fengyu3061
+目前版本支持常见的10种加密方法，出flag同时也 给出WP，不用手动写题解啦！
+开发不易 请大家多多支持。      
+
+☕微信      18.88 , 感谢各位师傅们捐助
+![22a397cad3a07f82ec28950b2f089afc](https://github.com/user-attachments/assets/b7a8bacb-1476-4c8f-a4c5-3a6da3df94a6)
+
+
 
 
 
