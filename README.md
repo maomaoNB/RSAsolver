@@ -29,7 +29,7 @@ RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP
 <img width="1100" height="1037" alt="image" src="https://github.com/user-attachments/assets/cfcaaeb6-e266-4059-a7b3-503110d7667c" />
 
 ### 捐助
-本工具需要license 授权，下载exe文件后双击打开命令行，输入1得到16位字符串，发给作者获取license。      加作者微信fengyu3061
+本工具需要license 授权，下载exe文件后双击打开命令行，输入1得到16位字符串，发给作者获取license。    
 目前版本支持常见的10种加密方法，出flag同时也 给出WP，不用手动写题解啦！
 开发不易 请大家多多支持。      
 
