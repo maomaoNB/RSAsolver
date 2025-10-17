@@ -21,4 +21,9 @@ RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP
 
 界面展示：
 <img width="1962" height="1138" alt="image" src="https://github.com/user-attachments/assets/d3329b4f-2dba-4a43-904e-e59a6f0430e0" />
+解出flag  同时给出WP，节约时间提升效率
+<img width="1100" height="1037" alt="image" src="https://github.com/user-attachments/assets/cfcaaeb6-e266-4059-a7b3-503110d7667c" />
+
+
+
 
