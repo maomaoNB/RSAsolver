@@ -43,7 +43,6 @@ RSA算法解密工具，支持10多种RSA基础攻击方法，提供WP。
 ![2be26feb33addabbb45ad6b809e56709](https://github.com/user-attachments/assets/6d612bcc-4fc7-4e47-bdb5-e15646a27187)
 
 
-![22a397cad3a07f82ec28950b2f089afc](https://github.com/user-attachments/assets/b7a8bacb-1476-4c8f-a4c5-3a6da3df94a6)
 
 
 
